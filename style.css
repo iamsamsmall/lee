@@ -226,7 +226,7 @@ h3.notion-heading {
   text-align: center !important;
 }
 
-/* --- PROJECTS LISTING --- */
+/* --- WORKS LISTING --- */
 
 /* Remove header of the gallery table */
 .notion-collection__header {
@@ -313,7 +313,7 @@ h3.notion-heading {
   white-space: normal !important;
 }
 
-/* Add underline to title on hover of project card */
+/* Add underline to title on hover of work card */
 .notion-collection-card.gallery .notion-collection-card__property .notion-semantic-string span {
   border-bottom: 1px solid transparent !important;
   transition: border-color .2s ease-in;
@@ -322,7 +322,7 @@ h3.notion-heading {
   border-bottom: 1px solid var(--color-text-gray) !important;
 }
 
-/* Increase spacing between project meta data */
+/* Increase spacing between work meta data */
 .notion-collection-card__property {
   margin: 3px 0 !important;
 }
@@ -375,7 +375,7 @@ h3.notion-heading {
 .notion-header__content.no-icon.has-cover .notion-header__title-wrapper {
   margin-top: 0 !important;
 }
-article[id*="projects-"] .notion-page__property > .property-49775679 .notion-pill {
+article[id*="works-"] .notion-page__property > .property-49775679 .notion-pill {
   font-weight: 600 !important;
   font-size: 0.75rem !important;
   line-height: 1.25 !important;
